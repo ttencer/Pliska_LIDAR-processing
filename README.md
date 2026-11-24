@@ -1,5 +1,12 @@
 # CloudCompare CLI – LAS Point Cloud Filtering
 
+## Download the script
+
+[View the LiDAR filtering script](./LIDAR_Filter.bat)
+
+To download it, open the link above and click "Download raw file"
+in the upper-right corner of the file view.
+
 ## Overview
 
 This script implements a point cloud filtering workflow using the CloudCompare command-line interface (CLI). It is designed for LAS point clouds acquired with the DJI Zenmuse L2 and processed in DJI Terra.
